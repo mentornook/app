@@ -3,7 +3,7 @@ name: Build and Sign Android APK
 on:
   push:
     paths:
-      - "webapp.html"
+      - "index.html"
       - "assets/**"
       - "css/**"
       - "js/**"
